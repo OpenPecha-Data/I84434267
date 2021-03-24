@@ -2,108 +2,108 @@ id: f1769c12eef14867af6c278a0b9d85d0
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: 86a526f27df1422a8912cd0a20b9848a
-  span:
-    start: 0
-    end: 627
-  page_index: 1a
-  page_info: null
-  reference: I2PD205350001
-- id: ec0dd85aa82d4fd296a84ea42af3ebf6
-  span:
-    start: 632
-    end: 668
-  page_index: 2a
-  page_info: null
-  reference: I2PD205350003
-- id: c0ad962e9a3645a0b6b4b32007739da8
-  span:
-    start: 673
-    end: 1133
-  page_index: 3a
-  page_info: null
-  reference: I2PD205350005
-- id: 4520fdc8357c4f5895948d89dcc1f089
-  span:
-    start: 1138
-    end: 1730
-  page_index: 3b
-  page_info: null
-  reference: I2PD205350006
-- id: 46908ea011dc4359b8517f9f36524e46
-  span:
-    start: 1735
-    end: 2269
-  page_index: 4a
-  page_info: null
-  reference: I2PD205350007
-- id: e2ce55165b6347c1a188aee27589d388
-  span:
-    start: 2274
-    end: 2839
-  page_index: 4b
-  page_info: null
-  reference: I2PD205350008
-- id: bb2a53ccc0274d6ab99ac9579be6be88
-  span:
-    start: 2844
-    end: 3443
-  page_index: 5a
-  page_info: null
-  reference: I2PD205350009
-- id: 1b2dfe846d1140679dc46b42db283c1a
-  span:
-    start: 3448
-    end: 4027
-  page_index: 5b
-  page_info: null
-  reference: I2PD205350010
-- id: c4fb267b1aa846f2b33e1411fae6a1d5
-  span:
-    start: 4032
-    end: 4612
-  page_index: 6a
-  page_info: null
-  reference: I2PD205350011
-- id: ecea39f6d8f64a5ba458c75d05dfa429
-  span:
-    start: 4617
-    end: 5204
-  page_index: 6b
-  page_info: null
-  reference: I2PD205350012
-- id: 4979f11bc96d4a61a1423b4527da45dd
-  span:
-    start: 5209
-    end: 5816
-  page_index: 7a
-  page_info: null
-  reference: I2PD205350013
-- id: 7fbc7915f122473899348c1ae310c9dc
-  span:
-    start: 5821
-    end: 6421
-  page_index: 7b
-  page_info: null
-  reference: I2PD205350014
-- id: 82a32c53da9b4942bce8aa3e5db0f979
-  span:
-    start: 6426
-    end: 7005
-  page_index: 8a
-  page_info: null
-  reference: I2PD205350015
-- id: 8aaf94999c5f4eab84d999fae9985127
-  span:
-    start: 7010
-    end: 7521
-  page_index: 8b
-  page_info: null
-  reference: I2PD205350016
-- id: 87a75f3d1104491f82878154c83ea00e
-  span:
-    start: 7526
-    end: 7676
-  page_index: 9b
-  page_info: null
-  reference: I2PD205350018
+  86a526f27df1422a8912cd0a20b9848a:
+    page_index: 1a
+    page_info: null
+    reference: I2PD205350001
+    span:
+      start: 0
+      end: 627
+  ec0dd85aa82d4fd296a84ea42af3ebf6:
+    page_index: 2a
+    page_info: null
+    reference: I2PD205350003
+    span:
+      start: 632
+      end: 668
+  c0ad962e9a3645a0b6b4b32007739da8:
+    page_index: 3a
+    page_info: null
+    reference: I2PD205350005
+    span:
+      start: 673
+      end: 1133
+  4520fdc8357c4f5895948d89dcc1f089:
+    page_index: 3b
+    page_info: null
+    reference: I2PD205350006
+    span:
+      start: 1138
+      end: 1730
+  46908ea011dc4359b8517f9f36524e46:
+    page_index: 4a
+    page_info: null
+    reference: I2PD205350007
+    span:
+      start: 1735
+      end: 2269
+  e2ce55165b6347c1a188aee27589d388:
+    page_index: 4b
+    page_info: null
+    reference: I2PD205350008
+    span:
+      start: 2274
+      end: 2839
+  bb2a53ccc0274d6ab99ac9579be6be88:
+    page_index: 5a
+    page_info: null
+    reference: I2PD205350009
+    span:
+      start: 2844
+      end: 3443
+  1b2dfe846d1140679dc46b42db283c1a:
+    page_index: 5b
+    page_info: null
+    reference: I2PD205350010
+    span:
+      start: 3448
+      end: 4027
+  c4fb267b1aa846f2b33e1411fae6a1d5:
+    page_index: 6a
+    page_info: null
+    reference: I2PD205350011
+    span:
+      start: 4032
+      end: 4612
+  ecea39f6d8f64a5ba458c75d05dfa429:
+    page_index: 6b
+    page_info: null
+    reference: I2PD205350012
+    span:
+      start: 4617
+      end: 5204
+  4979f11bc96d4a61a1423b4527da45dd:
+    page_index: 7a
+    page_info: null
+    reference: I2PD205350013
+    span:
+      start: 5209
+      end: 5816
+  7fbc7915f122473899348c1ae310c9dc:
+    page_index: 7b
+    page_info: null
+    reference: I2PD205350014
+    span:
+      start: 5821
+      end: 6421
+  82a32c53da9b4942bce8aa3e5db0f979:
+    page_index: 8a
+    page_info: null
+    reference: I2PD205350015
+    span:
+      start: 6426
+      end: 7005
+  8aaf94999c5f4eab84d999fae9985127:
+    page_index: 8b
+    page_info: null
+    reference: I2PD205350016
+    span:
+      start: 7010
+      end: 7521
+  87a75f3d1104491f82878154c83ea00e:
+    page_index: 9b
+    page_info: null
+    reference: I2PD205350018
+    span:
+      start: 7526
+      end: 7676

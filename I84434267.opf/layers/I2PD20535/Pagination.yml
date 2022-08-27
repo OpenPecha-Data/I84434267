@@ -1,0 +1,94 @@
+id: 19cf9bd749b549dba7b7102b065ed76a
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  f0c0d0600aa34319819f5dba76502aa5:
+    span:
+      start: 0
+      end: 631
+    imgnum: 1
+    reference: I2PD205350001.tif
+  68bc8c436dba482d9c395de2fa5c3f42:
+    span:
+      start: 632
+      end: 670
+    imgnum: 3
+    reference: I2PD205350003.jpg
+  7da32a47cf3449ac8930c05ef2354b3a:
+    span:
+      start: 671
+      end: 1135
+    imgnum: 5
+    reference: I2PD205350005.tif
+  d62c290d84ff442a9ef6e8a5c9b8e2f4:
+    span:
+      start: 1136
+      end: 1732
+    imgnum: 6
+    reference: I2PD205350006.tif
+  b83e6404b9e8401a89964a5869df54ed:
+    span:
+      start: 1733
+      end: 2271
+    imgnum: 7
+    reference: I2PD205350007.tif
+  2e1a8a209da648478e3dd005f80899e7:
+    span:
+      start: 2272
+      end: 2841
+    imgnum: 8
+    reference: I2PD205350008.tif
+  93689ad17ce441f9a90d241c4de02588:
+    span:
+      start: 2842
+      end: 3445
+    imgnum: 9
+    reference: I2PD205350009.tif
+  5d884eb8fe824fcba95a3bc766e4edb7:
+    span:
+      start: 3446
+      end: 4028
+    imgnum: 10
+    reference: I2PD205350010.tif
+  97b67af4450a4a668fab2860a5edda3d:
+    span:
+      start: 4029
+      end: 4610
+    imgnum: 11
+    reference: I2PD205350011.tif
+  7e1d915f2f0d48ecbc3fa262b420ffe7:
+    span:
+      start: 4611
+      end: 5204
+    imgnum: 12
+    reference: I2PD205350012.tif
+  38af3ce764d044308c98406a46f910e7:
+    span:
+      start: 5205
+      end: 5814
+    imgnum: 13
+    reference: I2PD205350013.tif
+  c7832501bbcd408ba91cc7f10741c16c:
+    span:
+      start: 5815
+      end: 6416
+    imgnum: 14
+    reference: I2PD205350014.tif
+  2cca267d063041d3aeaf957314061f8b:
+    span:
+      start: 6417
+      end: 7000
+    imgnum: 15
+    reference: I2PD205350015.tif
+  60bcbb6838b2469a9c321da00d5cd49d:
+    span:
+      start: 7001
+      end: 7515
+    imgnum: 16
+    reference: I2PD205350016.tif
+  61e36bc6ded74f8299fbd19e0de239c0:
+    span:
+      start: 7516
+      end: 7669
+    imgnum: 18
+    reference: I2PD205350018.jpg
